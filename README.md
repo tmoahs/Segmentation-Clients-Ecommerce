@@ -1,12 +1,10 @@
-# Projet 5 : Segmentez des clients d'un site e-commerce
+# Segmentez des clients d'un site e-commerce
 
 ### Objectif & Résultats Principaux
 
 Analyse exploratoire (SQL) et segmentation de la base clients pour définir des actions marketing ciblées. Un modèle de clustering (K-Means) a été développé sur la base d'une analyse RFM (Récence, Fréquence, Montant) et d'une ACP. L'analyse a permis d'identifier des profils distincts (ex: 3 segments pour nouveaux clients, 5 pour fidèles). Une **analyse de stabilité (score ARI)** a validé la pertinence des segments sur 6 mois, guidant la fréquence de réentraînement.
 
 ---
-
-Ce cinquième projet du parcours Data Scientist d'OpenClassrooms aborde une nouvelle branche du Machine Learning : **l'apprentissage non supervisé**. La mission consiste à analyser les comportements des clients d'un site e-commerce afin de les regrouper en segments homogènes, une tâche essentielle pour la personnalisation marketing.
 
 ### Contexte
 
